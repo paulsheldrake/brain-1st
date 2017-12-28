@@ -1,0 +1,14 @@
+uuid: c447527d-f212-4509-9433-5f0693a2250f
+name: brain-1st
+mail: paul.sheldrake@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
